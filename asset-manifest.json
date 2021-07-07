@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Multi-Topic-Quizz-App/static/css/main.f2302dfd.chunk.css",
+    "main.js": "/Multi-Topic-Quizz-App/static/js/main.4db46817.chunk.js",
+    "main.js.map": "/Multi-Topic-Quizz-App/static/js/main.4db46817.chunk.js.map",
+    "runtime-main.js": "/Multi-Topic-Quizz-App/static/js/runtime-main.4f641aea.js",
+    "runtime-main.js.map": "/Multi-Topic-Quizz-App/static/js/runtime-main.4f641aea.js.map",
+    "static/js/2.c384a11b.chunk.js": "/Multi-Topic-Quizz-App/static/js/2.c384a11b.chunk.js",
+    "static/js/2.c384a11b.chunk.js.map": "/Multi-Topic-Quizz-App/static/js/2.c384a11b.chunk.js.map",
+    "index.html": "/Multi-Topic-Quizz-App/index.html",
+    "static/css/main.f2302dfd.chunk.css.map": "/Multi-Topic-Quizz-App/static/css/main.f2302dfd.chunk.css.map",
+    "static/js/2.c384a11b.chunk.js.LICENSE.txt": "/Multi-Topic-Quizz-App/static/js/2.c384a11b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f641aea.js",
+    "static/js/2.c384a11b.chunk.js",
+    "static/css/main.f2302dfd.chunk.css",
+    "static/js/main.4db46817.chunk.js"
+  ]
+}
