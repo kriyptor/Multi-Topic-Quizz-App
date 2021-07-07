@@ -1,0 +1,51 @@
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.settings{
+    width: 45%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: monospace;
+    font-weight: 300;
+    border: 1px solid black;
+    box-shadow: 4px 4px 2px black;
+}
+
+.banner{
+    width: 55%;
+    align-self: center;
+    padding: 8px;
+}
+
+
+.settings-selects{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 100%;
+    flex: 0.8;
+    justify-content: space-evenly;
+}
+
+
+@media only screen and (max-width: 600px){
+    .content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .banner{
+        width: 85%;
+        padding: 0;
+        padding-top: 20px;
+    }
+    .settings{
+        width: 80%;
+    }
+}
